@@ -1,4 +1,4 @@
-% Face recognition by Santiago Serrano
+% Face recognition by PCA
 clear all
 close all
 clc
